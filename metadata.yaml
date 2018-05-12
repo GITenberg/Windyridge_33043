@@ -26,6 +26,8 @@ description: "Windyridge is a 1912 novel by English writer Willie Riley, the fir
   \ Windyridge\".\nAfter moving to Silverdale in 1919, Riley renamed his house there\
   \ \"Windyridge\", a name it still retains. The name became fashionable as a house\
   \ name and was widely used.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33043#Windyridge
 gutenberg_issued: '2010-07-01'
 gutenberg_type: Text
 identifiers:
