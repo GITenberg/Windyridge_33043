@@ -1,0 +1,45 @@
+_repo: Windyridge_33043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riley, W. (William)
+    alias: Riley, William
+    birthdate: 1866
+    deathdate: 1961
+    gutenberg_agent_id: '36179'
+    url: http://www.gutenberg.org/2009/agents/36179
+    wikipedia: http://en.wikipedia.org/wiki/Willie_Riley
+description: "Windyridge is a 1912 novel by English writer Willie Riley, the first\
+  \ of his 39 published books. It sold half a million copies, stayed in print until\
+  \ 1961, and was republished in 2010 with an extended introduction by David Copeland\
+  \ (ISBN 978-1-906600-18-1).\nThe book was originally written as an entertainment\
+  \ for Riley's wife and two recently bereaved friends, the Bolton sisters, to be\
+  \ read to them in weekly episodes during 1911 and 1912.\nThe story concerns young\
+  \ artist and photographer, Grace Holden, who moves from London to spend a year in\
+  \ the small Yorkshire village of Windyridge.\nIn 1928 Riley wrote a sequel, Windyridge\
+  \ Revisited, which remained in print until 1949.\nRiley's obituaries on his death\
+  \ in 1961 described him as \"the famous Bradford-born author of Windyridge and 34\
+  \ other novels\" and \"the author who established himself with his first novel,\
+  \ Windyridge\".\nAfter moving to Silverdale in 1919, Riley renamed his house there\
+  \ \"Windyridge\", a name it still retains. The name became fashionable as a house\
+  \ name and was widely used.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33043'
+  wikidata: Q19902842
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcsh 'Villages -- England -- Fiction'
+- !lcc 'PR'
+title: Windyridge
+url: http://www.gutenberg.org/ebooks/33043
+wikipedia:
+- https://en.wikipedia.org/wiki/Windyridge
